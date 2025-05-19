@@ -33,7 +33,7 @@ To run Cashly locally:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/your-username/cashly.git
+    git clone https://github.com/your-username/Cashly-AI-Powered-Expense-Tracker.git
     cd cashly
     ```
 
@@ -88,5 +88,12 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 Feel free to reach out for questions, suggestions, or collaboration!
+
+---
+
+## Copyright
+
+Copyright © Rionaldo Arifin 2025. All rights reserved.
+This code is for viewing purposes only and may not be used, copied, modified, or distributed without permission.
 
 ---
